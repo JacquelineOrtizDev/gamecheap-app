@@ -1,0 +1,35 @@
+//Mock data to help with building the service
+[
+            {
+                gameId: "146",
+                steamAppId: "35140",
+                cheapestPrice: "5.00",
+                cheapestDealID: "n96QeQ9FLRDoZToO75BS2Dx22PPtc7hlpcehVxUlW2c%3D",
+                title: "Batman: Arkham Asylum Game of the Year Edition",
+                thumbnailImg: "https://steamcdn-a.akamaihd.net/steam/apps/35140/capsule_sm_120.jpg?t=1525990900"
+            },
+            {
+                gameId: "128",
+                steamAppId: "7670",
+                cheapestPrice: "2.99",
+                cheapestDealID: "n96QeQ9FLRDoZToO75BS2Dx22PPtc7hlpcehVxUlW2c%3D",
+                title: "Bioshock",
+                thumbnailImg: "https://www.gamersgate.com/media/products/profile/107751/180_259.jpg/w90/"
+            },
+            {
+                gameId: "129",
+                steamAppId: "35450",
+                cheapestPrice: "2.49",
+                cheapestDealID: "n96QeQ9FLRDoZToO75BS2Dx22PPtc7hlpcehVxUlW2c%3D",
+                title: "Red Orchestra 2: Heroes of Stalingrad",
+                thumbnailImg: "https://www.gamersgate.com/media/products/profile/89364/180_259.jpg/w90/"
+            },
+            {
+                gameId: "130",
+                steamAppId: "99300",
+                cheapestPrice: "3.00",
+                cheapestDealID: "n96QeQ9FLRDoZToO75BS2Dx22PPtc7hlpcehVxUlW2c%3D",
+                title: "Renegade Ops",
+                thumbnailImg: "https://steamcdn-a.akamaihd.net/steam/apps/99300/capsule_sm_120.jpg?t=1522061011"
+            }
+        ]
