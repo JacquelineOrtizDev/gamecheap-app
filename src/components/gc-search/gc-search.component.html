@@ -1,0 +1,21 @@
+<div class="search-bar">
+  <div class="card mb-4" style="background-color: #fff;">
+    <div class="card-body">
+      <div class="row">
+        <div class="col-md-7">
+          <h2 class="card-title">{{title}}</h2>
+          Search results: {{count}}
+        </div>
+        <div class="col-md-5">
+          <form class="form-inline">
+            <div class="form-group mx-sm-3 mb-2">
+              <label for="search-games" class="sr-only">Search Games</label>
+              <input type="search" class="form-control" id="search-games" placeholder="Search games..." [(ngModel)]='search' name="search"/>
+            </div>
+            <button type="submit" class="btn btn-primary mb-2" (click)="SearchGames()">Search</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
