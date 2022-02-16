@@ -5,5 +5,4 @@ export interface IGame {
     cheapestDealID: string,
     external: string,
     thumb: string,
-    steamUrl: string
 }
